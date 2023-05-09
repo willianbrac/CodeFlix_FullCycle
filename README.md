@@ -1,0 +1,1 @@
+StopedAt - Definindo as propriedades da entidade categoria
